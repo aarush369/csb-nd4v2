@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://aarush369.github.io/csb-nd4v2/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://aarush369.github.io/csb-nd4v2/static/js/main.b7b5c9b6.chunk.js",
+    "main.js.map": "https://aarush369.github.io/csb-nd4v2/static/js/main.b7b5c9b6.chunk.js.map",
+    "runtime-main.js": "https://aarush369.github.io/csb-nd4v2/static/js/runtime-main.438ec8c3.js",
+    "runtime-main.js.map": "https://aarush369.github.io/csb-nd4v2/static/js/runtime-main.438ec8c3.js.map",
+    "static/js/2.eed3c6af.chunk.js": "https://aarush369.github.io/csb-nd4v2/static/js/2.eed3c6af.chunk.js",
+    "static/js/2.eed3c6af.chunk.js.map": "https://aarush369.github.io/csb-nd4v2/static/js/2.eed3c6af.chunk.js.map",
+    "index.html": "https://aarush369.github.io/csb-nd4v2/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://aarush369.github.io/csb-nd4v2/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.eed3c6af.chunk.js.LICENSE.txt": "https://aarush369.github.io/csb-nd4v2/static/js/2.eed3c6af.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.438ec8c3.js",
+    "static/js/2.eed3c6af.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.b7b5c9b6.chunk.js"
+  ]
+}
